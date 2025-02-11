@@ -1,0 +1,14 @@
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\FirstProject\bin\Debug\net9.0\FirstProject.exe
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\FirstProject\bin\Debug\net9.0\FirstProject.deps.json
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\FirstProject\bin\Debug\net9.0\FirstProject.runtimeconfig.json
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\FirstProject\bin\Debug\net9.0\FirstProject.dll
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\FirstProject\bin\Debug\net9.0\FirstProject.pdb
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\FirstProject\obj\Debug\net9.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\FirstProject\obj\Debug\net9.0\FirstProject.AssemblyInfoInputs.cache
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\FirstProject\obj\Debug\net9.0\FirstProject.AssemblyInfo.cs
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\FirstProject\obj\Debug\net9.0\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\FirstProject\obj\Debug\net9.0\FirstProject.dll
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\FirstProject\obj\Debug\net9.0\refint\FirstProject.dll
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\FirstProject\obj\Debug\net9.0\FirstProject.pdb
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\FirstProject\obj\Debug\net9.0\FirstProject.genruntimeconfig.cache
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\FirstProject\obj\Debug\net9.0\ref\FirstProject.dll
