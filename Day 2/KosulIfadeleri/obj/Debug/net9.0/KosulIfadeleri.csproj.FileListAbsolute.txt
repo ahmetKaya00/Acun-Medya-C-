@@ -1,0 +1,15 @@
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\Day 2\KosulIfadeleri\bin\Debug\net9.0\KosulIfadeleri.exe
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\Day 2\KosulIfadeleri\bin\Debug\net9.0\KosulIfadeleri.deps.json
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\Day 2\KosulIfadeleri\bin\Debug\net9.0\KosulIfadeleri.runtimeconfig.json
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\Day 2\KosulIfadeleri\bin\Debug\net9.0\KosulIfadeleri.dll
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\Day 2\KosulIfadeleri\bin\Debug\net9.0\KosulIfadeleri.pdb
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\Day 2\KosulIfadeleri\obj\Debug\net9.0\KosulIfadeleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\Day 2\KosulIfadeleri\obj\Debug\net9.0\KosulIfadeleri.AssemblyInfoInputs.cache
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\Day 2\KosulIfadeleri\obj\Debug\net9.0\KosulIfadeleri.AssemblyInfo.cs
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\Day 2\KosulIfadeleri\obj\Debug\net9.0\KosulIfadeleri.csproj.CoreCompileInputs.cache
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\Day 2\KosulIfadeleri\obj\Debug\net9.0\KosulIfadeleri.sourcelink.json
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\Day 2\KosulIfadeleri\obj\Debug\net9.0\KosulIfadeleri.dll
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\Day 2\KosulIfadeleri\obj\Debug\net9.0\refint\KosulIfadeleri.dll
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\Day 2\KosulIfadeleri\obj\Debug\net9.0\KosulIfadeleri.pdb
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\Day 2\KosulIfadeleri\obj\Debug\net9.0\KosulIfadeleri.genruntimeconfig.cache
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\Day 2\KosulIfadeleri\obj\Debug\net9.0\ref\KosulIfadeleri.dll
