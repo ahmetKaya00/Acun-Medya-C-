@@ -1,0 +1,15 @@
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week 3\methodandfunction\bin\Debug\net9.0\methodandfunction.exe
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week 3\methodandfunction\bin\Debug\net9.0\methodandfunction.deps.json
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week 3\methodandfunction\bin\Debug\net9.0\methodandfunction.runtimeconfig.json
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week 3\methodandfunction\bin\Debug\net9.0\methodandfunction.dll
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week 3\methodandfunction\bin\Debug\net9.0\methodandfunction.pdb
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week 3\methodandfunction\obj\Debug\net9.0\methodandfunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week 3\methodandfunction\obj\Debug\net9.0\methodandfunction.AssemblyInfoInputs.cache
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week 3\methodandfunction\obj\Debug\net9.0\methodandfunction.AssemblyInfo.cs
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week 3\methodandfunction\obj\Debug\net9.0\methodandfunction.csproj.CoreCompileInputs.cache
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week 3\methodandfunction\obj\Debug\net9.0\methodandfunction.sourcelink.json
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week 3\methodandfunction\obj\Debug\net9.0\methodandfunction.dll
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week 3\methodandfunction\obj\Debug\net9.0\refint\methodandfunction.dll
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week 3\methodandfunction\obj\Debug\net9.0\methodandfunction.pdb
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week 3\methodandfunction\obj\Debug\net9.0\methodandfunction.genruntimeconfig.cache
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week 3\methodandfunction\obj\Debug\net9.0\ref\methodandfunction.dll
