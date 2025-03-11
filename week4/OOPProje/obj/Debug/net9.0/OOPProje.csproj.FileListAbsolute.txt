@@ -1,0 +1,15 @@
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week4\OOPProje\bin\Debug\net9.0\OOPProje.exe
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week4\OOPProje\bin\Debug\net9.0\OOPProje.deps.json
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week4\OOPProje\bin\Debug\net9.0\OOPProje.runtimeconfig.json
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week4\OOPProje\bin\Debug\net9.0\OOPProje.dll
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week4\OOPProje\bin\Debug\net9.0\OOPProje.pdb
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week4\OOPProje\obj\Debug\net9.0\OOPProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week4\OOPProje\obj\Debug\net9.0\OOPProje.AssemblyInfoInputs.cache
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week4\OOPProje\obj\Debug\net9.0\OOPProje.AssemblyInfo.cs
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week4\OOPProje\obj\Debug\net9.0\OOPProje.csproj.CoreCompileInputs.cache
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week4\OOPProje\obj\Debug\net9.0\OOPProje.sourcelink.json
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week4\OOPProje\obj\Debug\net9.0\OOPProje.dll
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week4\OOPProje\obj\Debug\net9.0\refint\OOPProje.dll
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week4\OOPProje\obj\Debug\net9.0\OOPProje.pdb
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week4\OOPProje\obj\Debug\net9.0\OOPProje.genruntimeconfig.cache
+C:\Users\Kaya3\Documents\GitHub\Acun-Medya-C-\week4\OOPProje\obj\Debug\net9.0\ref\OOPProje.dll
