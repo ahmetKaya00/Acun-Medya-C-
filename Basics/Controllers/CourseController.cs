@@ -6,16 +6,17 @@ namespace Basics.Controllers{
     public class CourseController : Controller{
 
         public IActionResult Index(){
-            var kurs = new Course();
-            kurs.Id = 1;
-            kurs.Title = "Acun Medya Akademi C# Eğitimi";
-            kurs.Description = "Eğitimimiz Şubat ayında başladı. 6 Ay sürecektir.";
-            kurs.Image = "1.png";
-            return View(kurs);
+            return View(Repository.Courses);
         }
-
         public IActionResult List(){
             return View(Repository.Courses);
+        }
+        public IActionResult Details(int? id){
+            if(id == null){
+                return Redirect("/course/list");
+            }
+            var kurs = Repository.GetById(id);
+            return View(kurs);
         }
     }
 }

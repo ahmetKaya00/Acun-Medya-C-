@@ -2,6 +2,8 @@
 
 @foreach (var kurs in Model)
 {
+    @if(kurs.isActive){
+
     <div class="card mb-3" id="kurs_@kurs.Id">
         <div class="row">
             <div class="col-md-4">
@@ -9,7 +11,7 @@
                 </div>
             <div class="col-md-8">
                 <div class="card-body">
-                    <a href="">
+                    <a asp-controller="Course" asp-action="Details" asp-route-id="@kurs.Id">
                     <h2 class="card-title">@kurs.Title</h2>
                     </a>
                     <p class="card-text">@kurs.Description</p>
@@ -17,4 +19,5 @@
             </div>
         </div>
     </div>
+    }
 }
