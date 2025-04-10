@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gb9wOjuc/FjMMBWlvigzMI3L9RFWZp9KMMEqaFFloPI=",
+  "Hash": "B3Dwn6BRNfQsULZMoHK8+c9Kk4GGlELoLjKXEjdbmZE=",
   "Source": "FormsApp",
   "BasePath": "_content/FormsApp",
   "Mode": "Default",
@@ -1527,6 +1527,195 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\4bd823ad-6a48-4a65-8bc6-a620ad3c420d.png",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/4bd823ad-6a48-4a65-8bc6-a620ad3c420d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "matqr4yk8n",
+      "Integrity": "Mj6tgfkGMhfsNJh7OsXCNN8ey3pIZtWWEXjGkaj/Ads=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\4bd823ad-6a48-4a65-8bc6-a620ad3c420d.png"
+    },
+    {
+      "Identity": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\785998ca-18da-4157-9da1-f0cd3d196b4b.png",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/785998ca-18da-4157-9da1-f0cd3d196b4b#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4ic45ez75h",
+      "Integrity": "tNo7k7uuEoi6YjGpv7gPKQCpRM2amSXPWVZz8mnaB+U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\785998ca-18da-4157-9da1-f0cd3d196b4b.png"
+    },
+    {
+      "Identity": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\83908ad5-c33a-4bdc-8282-e5086e54a4d5.png",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/83908ad5-c33a-4bdc-8282-e5086e54a4d5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "matqr4yk8n",
+      "Integrity": "Mj6tgfkGMhfsNJh7OsXCNN8ey3pIZtWWEXjGkaj/Ads=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\83908ad5-c33a-4bdc-8282-e5086e54a4d5.png"
+    },
+    {
+      "Identity": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\84699a2c-747d-4e82-afcc-905a1b417bae.png",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/84699a2c-747d-4e82-afcc-905a1b417bae#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4ic45ez75h",
+      "Integrity": "tNo7k7uuEoi6YjGpv7gPKQCpRM2amSXPWVZz8mnaB+U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\84699a2c-747d-4e82-afcc-905a1b417bae.png"
+    },
+    {
+      "Identity": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\88993b78-9b1a-42b5-8dab-e10c00664099.png",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/88993b78-9b1a-42b5-8dab-e10c00664099#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "matqr4yk8n",
+      "Integrity": "Mj6tgfkGMhfsNJh7OsXCNN8ey3pIZtWWEXjGkaj/Ads=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\88993b78-9b1a-42b5-8dab-e10c00664099.png"
+    },
+    {
+      "Identity": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\ab5bed01-b8b8-4c49-8201-03fa91f85fbd.jpeg",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/ab5bed01-b8b8-4c49-8201-03fa91f85fbd#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2qljtlf0d9",
+      "Integrity": "RmqIlVX0h3zYbyqbahuDmS9nBWrhabNQrePMjTWgDAw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\ab5bed01-b8b8-4c49-8201-03fa91f85fbd.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\b0ea4ea4-0086-46db-bc8c-b9e11e214a35.png",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/b0ea4ea4-0086-46db-bc8c-b9e11e214a35#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4ic45ez75h",
+      "Integrity": "tNo7k7uuEoi6YjGpv7gPKQCpRM2amSXPWVZz8mnaB+U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\b0ea4ea4-0086-46db-bc8c-b9e11e214a35.png"
+    },
+    {
+      "Identity": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\df9e571f-95d9-441c-9dce-4a6368920997.png",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/df9e571f-95d9-441c-9dce-4a6368920997#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "matqr4yk8n",
+      "Integrity": "Mj6tgfkGMhfsNJh7OsXCNN8ey3pIZtWWEXjGkaj/Ads=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\df9e571f-95d9-441c-9dce-4a6368920997.png"
+    },
+    {
+      "Identity": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\f5929613-b722-4aba-bc75-e87cec718c97.png",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/f5929613-b722-4aba-bc75-e87cec718c97#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4ic45ez75h",
+      "Integrity": "tNo7k7uuEoi6YjGpv7gPKQCpRM2amSXPWVZz8mnaB+U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\f5929613-b722-4aba-bc75-e87cec718c97.png"
     },
     {
       "Identity": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\js\\site.js",
@@ -4328,6 +4517,744 @@
         {
           "Name": "integrity",
           "Value": "sha256-LInhSfG5P5A0bouswh9Jx50d8FyrAMizr1Mbr9XNnPw="
+        }
+      ]
+    },
+    {
+      "Route": "img/4bd823ad-6a48-4a65-8bc6-a620ad3c420d.matqr4yk8n.png",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\4bd823ad-6a48-4a65-8bc6-a620ad3c420d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mj6tgfkGMhfsNJh7OsXCNN8ey3pIZtWWEXjGkaj/Ads=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:26:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "matqr4yk8n"
+        },
+        {
+          "Name": "label",
+          "Value": "img/4bd823ad-6a48-4a65-8bc6-a620ad3c420d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mj6tgfkGMhfsNJh7OsXCNN8ey3pIZtWWEXjGkaj/Ads="
+        }
+      ]
+    },
+    {
+      "Route": "img/4bd823ad-6a48-4a65-8bc6-a620ad3c420d.png",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\4bd823ad-6a48-4a65-8bc6-a620ad3c420d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mj6tgfkGMhfsNJh7OsXCNN8ey3pIZtWWEXjGkaj/Ads=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:26:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mj6tgfkGMhfsNJh7OsXCNN8ey3pIZtWWEXjGkaj/Ads="
+        }
+      ]
+    },
+    {
+      "Route": "img/785998ca-18da-4157-9da1-f0cd3d196b4b.4ic45ez75h.png",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\785998ca-18da-4157-9da1-f0cd3d196b4b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tNo7k7uuEoi6YjGpv7gPKQCpRM2amSXPWVZz8mnaB+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:24:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4ic45ez75h"
+        },
+        {
+          "Name": "label",
+          "Value": "img/785998ca-18da-4157-9da1-f0cd3d196b4b.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tNo7k7uuEoi6YjGpv7gPKQCpRM2amSXPWVZz8mnaB+U="
+        }
+      ]
+    },
+    {
+      "Route": "img/785998ca-18da-4157-9da1-f0cd3d196b4b.png",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\785998ca-18da-4157-9da1-f0cd3d196b4b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tNo7k7uuEoi6YjGpv7gPKQCpRM2amSXPWVZz8mnaB+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:24:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tNo7k7uuEoi6YjGpv7gPKQCpRM2amSXPWVZz8mnaB+U="
+        }
+      ]
+    },
+    {
+      "Route": "img/83908ad5-c33a-4bdc-8282-e5086e54a4d5.matqr4yk8n.png",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\83908ad5-c33a-4bdc-8282-e5086e54a4d5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mj6tgfkGMhfsNJh7OsXCNN8ey3pIZtWWEXjGkaj/Ads=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:26:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "matqr4yk8n"
+        },
+        {
+          "Name": "label",
+          "Value": "img/83908ad5-c33a-4bdc-8282-e5086e54a4d5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mj6tgfkGMhfsNJh7OsXCNN8ey3pIZtWWEXjGkaj/Ads="
+        }
+      ]
+    },
+    {
+      "Route": "img/83908ad5-c33a-4bdc-8282-e5086e54a4d5.png",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\83908ad5-c33a-4bdc-8282-e5086e54a4d5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mj6tgfkGMhfsNJh7OsXCNN8ey3pIZtWWEXjGkaj/Ads=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:26:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mj6tgfkGMhfsNJh7OsXCNN8ey3pIZtWWEXjGkaj/Ads="
+        }
+      ]
+    },
+    {
+      "Route": "img/84699a2c-747d-4e82-afcc-905a1b417bae.4ic45ez75h.png",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\84699a2c-747d-4e82-afcc-905a1b417bae.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tNo7k7uuEoi6YjGpv7gPKQCpRM2amSXPWVZz8mnaB+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:25:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4ic45ez75h"
+        },
+        {
+          "Name": "label",
+          "Value": "img/84699a2c-747d-4e82-afcc-905a1b417bae.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tNo7k7uuEoi6YjGpv7gPKQCpRM2amSXPWVZz8mnaB+U="
+        }
+      ]
+    },
+    {
+      "Route": "img/84699a2c-747d-4e82-afcc-905a1b417bae.png",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\84699a2c-747d-4e82-afcc-905a1b417bae.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tNo7k7uuEoi6YjGpv7gPKQCpRM2amSXPWVZz8mnaB+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:25:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tNo7k7uuEoi6YjGpv7gPKQCpRM2amSXPWVZz8mnaB+U="
+        }
+      ]
+    },
+    {
+      "Route": "img/88993b78-9b1a-42b5-8dab-e10c00664099.matqr4yk8n.png",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\88993b78-9b1a-42b5-8dab-e10c00664099.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mj6tgfkGMhfsNJh7OsXCNN8ey3pIZtWWEXjGkaj/Ads=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:26:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "matqr4yk8n"
+        },
+        {
+          "Name": "label",
+          "Value": "img/88993b78-9b1a-42b5-8dab-e10c00664099.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mj6tgfkGMhfsNJh7OsXCNN8ey3pIZtWWEXjGkaj/Ads="
+        }
+      ]
+    },
+    {
+      "Route": "img/88993b78-9b1a-42b5-8dab-e10c00664099.png",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\88993b78-9b1a-42b5-8dab-e10c00664099.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mj6tgfkGMhfsNJh7OsXCNN8ey3pIZtWWEXjGkaj/Ads=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:26:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mj6tgfkGMhfsNJh7OsXCNN8ey3pIZtWWEXjGkaj/Ads="
+        }
+      ]
+    },
+    {
+      "Route": "img/ab5bed01-b8b8-4c49-8201-03fa91f85fbd.2qljtlf0d9.jpeg",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\ab5bed01-b8b8-4c49-8201-03fa91f85fbd.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "208680"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RmqIlVX0h3zYbyqbahuDmS9nBWrhabNQrePMjTWgDAw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:24:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2qljtlf0d9"
+        },
+        {
+          "Name": "label",
+          "Value": "img/ab5bed01-b8b8-4c49-8201-03fa91f85fbd.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RmqIlVX0h3zYbyqbahuDmS9nBWrhabNQrePMjTWgDAw="
+        }
+      ]
+    },
+    {
+      "Route": "img/ab5bed01-b8b8-4c49-8201-03fa91f85fbd.jpeg",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\ab5bed01-b8b8-4c49-8201-03fa91f85fbd.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "208680"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RmqIlVX0h3zYbyqbahuDmS9nBWrhabNQrePMjTWgDAw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:24:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RmqIlVX0h3zYbyqbahuDmS9nBWrhabNQrePMjTWgDAw="
+        }
+      ]
+    },
+    {
+      "Route": "img/b0ea4ea4-0086-46db-bc8c-b9e11e214a35.4ic45ez75h.png",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\b0ea4ea4-0086-46db-bc8c-b9e11e214a35.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tNo7k7uuEoi6YjGpv7gPKQCpRM2amSXPWVZz8mnaB+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:25:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4ic45ez75h"
+        },
+        {
+          "Name": "label",
+          "Value": "img/b0ea4ea4-0086-46db-bc8c-b9e11e214a35.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tNo7k7uuEoi6YjGpv7gPKQCpRM2amSXPWVZz8mnaB+U="
+        }
+      ]
+    },
+    {
+      "Route": "img/b0ea4ea4-0086-46db-bc8c-b9e11e214a35.png",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\b0ea4ea4-0086-46db-bc8c-b9e11e214a35.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tNo7k7uuEoi6YjGpv7gPKQCpRM2amSXPWVZz8mnaB+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:25:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tNo7k7uuEoi6YjGpv7gPKQCpRM2amSXPWVZz8mnaB+U="
+        }
+      ]
+    },
+    {
+      "Route": "img/df9e571f-95d9-441c-9dce-4a6368920997.matqr4yk8n.png",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\df9e571f-95d9-441c-9dce-4a6368920997.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mj6tgfkGMhfsNJh7OsXCNN8ey3pIZtWWEXjGkaj/Ads=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:26:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "matqr4yk8n"
+        },
+        {
+          "Name": "label",
+          "Value": "img/df9e571f-95d9-441c-9dce-4a6368920997.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mj6tgfkGMhfsNJh7OsXCNN8ey3pIZtWWEXjGkaj/Ads="
+        }
+      ]
+    },
+    {
+      "Route": "img/df9e571f-95d9-441c-9dce-4a6368920997.png",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\df9e571f-95d9-441c-9dce-4a6368920997.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mj6tgfkGMhfsNJh7OsXCNN8ey3pIZtWWEXjGkaj/Ads=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:26:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mj6tgfkGMhfsNJh7OsXCNN8ey3pIZtWWEXjGkaj/Ads="
+        }
+      ]
+    },
+    {
+      "Route": "img/f5929613-b722-4aba-bc75-e87cec718c97.4ic45ez75h.png",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\f5929613-b722-4aba-bc75-e87cec718c97.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tNo7k7uuEoi6YjGpv7gPKQCpRM2amSXPWVZz8mnaB+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:14:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4ic45ez75h"
+        },
+        {
+          "Name": "label",
+          "Value": "img/f5929613-b722-4aba-bc75-e87cec718c97.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tNo7k7uuEoi6YjGpv7gPKQCpRM2amSXPWVZz8mnaB+U="
+        }
+      ]
+    },
+    {
+      "Route": "img/f5929613-b722-4aba-bc75-e87cec718c97.png",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Acun-Medya-C-\\FormsApp\\wwwroot\\img\\f5929613-b722-4aba-bc75-e87cec718c97.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tNo7k7uuEoi6YjGpv7gPKQCpRM2amSXPWVZz8mnaB+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:14:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tNo7k7uuEoi6YjGpv7gPKQCpRM2amSXPWVZz8mnaB+U="
         }
       ]
     },
