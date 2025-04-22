@@ -1,8 +1,8 @@
 @model Ogrenci    
 
-<h2>Öğrenciler Ekle</h2>
-
-<form asp-controller="Ogrenci" asp-action="Create" method="post">
+<h2>Öğrenciler Güncelle</h2>
+<form asp-controller="Ogrenci" asp-action="Edit" method="post">
+    <input type="hidden" asp-for="OgrenciId">
     <div class="mb-3">
         <label asp-for="OgrenciAd" class="form-label"></label>
         <input asp-for="OgrenciAd" class="form-control">
