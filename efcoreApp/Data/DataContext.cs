@@ -8,5 +8,6 @@ namespace efcoreApp.Data{
         public DbSet<Ogrenci> Ogrenciler => Set<Ogrenci>();
         public DbSet<Kurs> Kurslar => Set<Kurs>();
         public DbSet<KursKayit> KursKayitlari => Set<KursKayit>();
+        public DbSet<Ogretmen> Ogretmenler => Set<Ogretmen>();
     }
 }

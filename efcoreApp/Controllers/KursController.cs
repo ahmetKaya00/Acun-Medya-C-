@@ -1,3 +1,4 @@
+using System.IO.Compression;
 using efcoreApp.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -36,7 +37,7 @@ namespace efcoreApp.Controllers{
             }
 
            // var ogr = await _context.Kursler.FindAsync(id);
-            var Kurs = await _context.Kurslar.FirstOrDefaultAsync(Kurs => Kurs.KursId == id);
+            var Kurs = await _context.Kurslar.Include(x=>x.KursKayitlari).ThenInclude(x=>x.Ogrenci).FirstOrDefaultAsync(Kurs => Kurs.KursId == id);
             if(Kurs == null){
                 return NotFound();
             }
