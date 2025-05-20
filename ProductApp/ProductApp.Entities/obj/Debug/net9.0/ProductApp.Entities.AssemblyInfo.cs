@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProductApp.Entities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a54caeb4ca42ad4fd5513867aa1029cd8a61ecb0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4de010b8bde05bd0f95a85401d2fd864da3e0c23")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProductApp.Entities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProductApp.Entities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
